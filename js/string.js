@@ -7,3 +7,6 @@ var str2 = "We are learning Javascript Today!";
 console.log(str2);
 
 console.log(str1, str2);
+
+
+varfirstName = "";
