@@ -52,5 +52,5 @@ console.log(div);
  var e = '20';
  console.log (typeof e); //returns the type of variable e
 
- console.log(a === e);
- console.log(a == e);
+ console.log(a === e); //false
+ console.log(a == e); //turthy 
