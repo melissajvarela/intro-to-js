@@ -39,7 +39,15 @@ console.log(str4);
 
 console.log(str1, str2);
 
-
-
-
 //end of 5 string variables
+
+// Beginning of 2 boolean variables
+
+console.log(5 == '5');
+console.log(10 === '5');
+
+console.log(isNaN(23));
+console.log(isNaN('4/24/2019'));
+
+
+// End of 2 boolean variables
