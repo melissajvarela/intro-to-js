@@ -10,7 +10,6 @@ console.log(arr2[2]); //no index = 2
 var arr3 = ['hi', 'hello', 'there'];
 console.log(arr3);
 //displa output "there"
-
 console.log(arr3[2]);
 console.log(arr3.length);
 console.log(arr3[arr3.length -1]);

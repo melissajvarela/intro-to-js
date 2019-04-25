@@ -49,5 +49,26 @@ console.log(10 === '5');
 console.log(isNaN(23));
 console.log(isNaN('4/24/2019'));
 
-
 // End of 2 boolean variables
+
+// Beginning of 5 array variables
+var arr=[1];
+var arr2=[2, 4];
+console.log(arr2);
+
+var arr3=['coffee', 'tea', 'water', 'punch'];
+console.log(arr3[2]);
+
+arr3.push('soda');
+console.log(arr3);
+
+arr3.splice(2, 2, 'gatorade', 'powerade');
+console.log(arr3);
+
+arr3.splice(1, 3, 'Juice', 'Espresso');
+console.log(arr3);
+
+
+
+
+// End of 5 array variables
