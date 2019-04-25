@@ -24,3 +24,22 @@ console.log(mult);
 //end of 5 integer variables
 
 //beginning of 5 string variables
+
+var str1 = 'Good Morning';
+console.log(str1);
+
+var str2 = 'Good Afternoon, it\'s lovely outside';
+console.log(str2);
+
+var str3 = 'Good Evening, it was a hot day today!';
+console.log(str3);
+
+var str4 = 'Goodbye';
+console.log(str4);
+
+console.log(str1, str2);
+
+
+
+
+//end of 5 string variables
