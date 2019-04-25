@@ -68,7 +68,21 @@ console.log(arr3);
 arr3.splice(1, 3, 'Juice', 'Espresso');
 console.log(arr3);
 
-
-
-
 // End of 5 array variables
+
+// Beginning of 5 object variables
+
+var food = {
+    breakfast: 'eggs',
+    lunch:  'salad',
+    snack:  'chocolate',
+    dinner: 'steak',
+    cost:  30
+};
+
+console.log(food.snack);
+console.log(food.cost);
+console.log(food.breakfast,food.lunch);
+
+
+// End of 5 object variables
