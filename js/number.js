@@ -49,5 +49,8 @@ console.log(div);
 
 
  //not a number;but is a string
- var e = '5';
+ var e = '20';
  console.log (typeof e); //returns the type of variable e
+
+ console.log(a === e); //false
+ console.log(a == e); //turthy 
